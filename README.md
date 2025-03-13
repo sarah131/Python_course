@@ -1,7 +1,7 @@
 # Python_course
 A-Z about the python
 
-[**The Python Track!**]([https://youtu.be/UrsmFxEIp5k](https://www.youtube.com/watch?v=P-_n0LcGufQ&list=PLxH0NSCUwQkwTuzT1Fo91gYtksbTu8q6h))
+[**The Python Track!**]((https://www.youtube.com/watch?v=P-_n0LcGufQ&list=PLxH0NSCUwQkwTuzT1Fo91gYtksbTu8q6h))
 
 This course is designed to take you from a  beginner to an advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
 
