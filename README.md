@@ -1,9 +1,9 @@
 # Python_course
-### A-Z about the python
+### A-Z about the python 🐍
 
 This course is designed to take you from a  beginner to an advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
 
-## Chapters
+## Chapters 📚
 
 The course is divided into several chapters, each focusing on different aspects of Python programming:
 
@@ -72,7 +72,7 @@ The course is divided into several chapters, each focusing on different aspects 
   - String methods: `join` and `format`
   - Functional programming: `map`, `filter`, and `reduce`
 
-## Projects
+## Projects 💻
 
 - **Project 1: Snake Water Gun Game**
   - A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.
@@ -84,7 +84,7 @@ The course is divided into several chapters, each focusing on different aspects 
   - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
 
 
-## Do follow for more and Refer 
+## Do follow for more and Refer ✨
 For projects : [Github](https://github.com/sarah131/)
 
 For coding skills & Problem solving : [Youtube](https://youtube.com/@theengineeringcodex?si=5o6xpI8eqK7-2fQf)
